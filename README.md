@@ -1,2 +1,8 @@
-# Analyzing_Students_Mental_Health_SQL
+# 1. SQL Project: Analyzing Students Mental Health
+Studying abroad can be both exciting and difficult. But what might be contributing to this? One Japanese international university decided to find out!
+Use your data manipulation skills to explore the data from a study on the mental health of international students, and find out which factors may have the greatest impact.
+
+Executed on 05Sep25
+
+[Link](https://app.datacamp.com/learn/projects/analyzing_students_mental_health/guided/SQL) to project on DataCamp
  
